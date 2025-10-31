@@ -12,10 +12,10 @@
   <a href="https://opensource.org/licenses/MIT">
     <img src="https://img.shields.io/badge/License-MIT-green.svg" alt="License MIT">
   </a>
-  <img src="https://img.shields.io/github/last-commit/Ratna-Babu/ai-website-builder" alt="Last Commit">
-  <img src="https://img.shields.io/github/languages/top/Ratna-Babu/ai-website-builder" alt="Top Language">
-  <img src="https://img.shields.io/github/languages/count/Ratna-Babu/ai-website-builder" alt="Languages">
-  <img src="https://img.shields.io/github/repo-size/Ratna-Babu/ai-website-builder" alt="Repo Size">
+  <img src="https://img.shields.io/github/last-commit/Elony James/ai-website-builder" alt="Last Commit">
+  <img src="https://img.shields.io/github/languages/top/Elony James/ai-website-builder" alt="Top Language">
+  <img src="https://img.shields.io/github/languages/count/Elony James/ai-website-builder" alt="Languages">
+  <img src="https://img.shields.io/github/repo-size/Elony James/ai-website-builder" alt="Repo Size">
 </p>
 
 
@@ -156,7 +156,7 @@
 
 ```bash
 # Clone the repository
-git clone https://github.com/Ratna-Babu/ai-website-builder.git
+git clone https://github.com/Elony James/ai-website-builder.git
 
 # Navigate to project directory
 cd ai-website-builder
@@ -313,7 +313,7 @@ features grid, and pricing cards"
 
 ### 🚀 Deploy to Vercel
 
-[![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/clone?repository-url=https://github.com/Ratna-Babu/ai-website-builder)
+[![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/clone?repository-url=https://github.com/Elony James/ai-website-builder)
 
 ### 🔧 Environment Variables Required
 
@@ -355,8 +355,8 @@ gitGraph
 
 ### 👥 Contributors
 
-<a href="https://github.com/Ratna-Babu/ai-website-builder/graphs/contributors">
-  <img src="https://contrib.rocks/image?repo=Ratna-Babu/ai-website-builder"/>
+<a href="https://github.com/Elony James/ai-website-builder/graphs/contributors">
+  <img src="https://contrib.rocks/image?repo=Elony James/ai-website-builder"/>
 </a>
 
 </div>
@@ -375,8 +375,8 @@ gitGraph
 
 ### 💬 Get Help
 
-[![Discussions](https://img.shields.io/badge/GitHub-Discussions-181717?style=for-the-badge&logo=github)](https://github.com/Ratna-Babu/ai-website-builder/discussions)
-[![Issues](https://img.shields.io/badge/Issues-Report_Bug-red?style=for-the-badge&logo=github)](https://github.com/Ratna-Babu/ai-website-builder/issues)
+[![Discussions](https://img.shields.io/badge/GitHub-Discussions-181717?style=for-the-badge&logo=github)](https://github.com/Elony James/ai-website-builder/discussions)
+[![Issues](https://img.shields.io/badge/Issues-Report_Bug-red?style=for-the-badge&logo=github)](https://github.com/Elony James/ai-website-builder/issues)
 
 ### ⭐ Show Your Support
 
@@ -386,7 +386,7 @@ gitGraph
 
 Give a ⭐ if this project helped you!
 
-[![GitHub stars](https://img.shields.io/github/stars/Ratna-Babu/ai-website-builder?style=social)](https://github.com/Ratna-Babu/ai-website-builder)
+[![GitHub stars](https://img.shields.io/github/stars/Elony James/ai-website-builder?style=social)](https://github.com/Elony James/ai-website-builder)
 
 </td>
 
@@ -429,7 +429,7 @@ Special thanks to these amazing projects and teams:
 <div align="center">
   <b><a href="#-ai-powered-website-builder">⬆ Back to Top</a></b>
   
-  <sub>Made with ❤️ by [Ratna Babu](https://github.com/Ratna-Babu) and contributors</sub>
+  <sub>Made with ❤️ by [Elony James](https://github.com/Elony James) and contributors</sub>
   
 </div>
 
